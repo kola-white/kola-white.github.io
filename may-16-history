@@ -1,0 +1,227 @@
+    1  git clone https://github.com/kola-white/myproject.git
+    2  cd myproject/
+    3  ls
+    4  pwd
+    5  pwd
+    6  git status
+    7  git add *
+    8  git status
+    9  git commit -m "initial commit"
+   10  git status
+   11  git push
+   12  git push
+   13  git push
+   14  ls
+   15  cd ..
+   16  ls
+   17  git clone https://github.com/kola-white/nwhitehouse.github.io.git
+   18  ls
+   19  cp -r myproject/html/ nwhitehouse.github.io/html
+   20  cd nwhitehouse.github.io/
+   21  ls
+   22  cd html/
+   23  ls
+   24  mv * ../
+   25  ls
+   26  cd ..
+   27  ls
+   28  ls
+   29  cd ..
+   30  cp -r myproject/css/ nwhitehouse.github.io/css
+   31  cd nwhitehouse.github.io/
+   32  ls
+   33  cd css
+   34  ls
+   35  mv * ../
+   36  cd ..
+   37  ls
+   38  rm css
+   39  rm -f css
+   40  rm -r css
+   41  rm -r html
+   42  ls
+   43  ls
+   44  mv finalProject.html index.html
+   45  git add .
+   46  git commit -m
+   47  git commit -m "home page"
+   48  git status
+   49  git push -u origin master
+   50  ls
+   51  cd ..
+   52  ls
+   53  git clone https://github.com/kola-white/kola-white.git
+   54  ls
+   55  rm -rf kola-white/
+   56  rm -rf myproject/
+   57  git clone https://github.com/kola-white/kola-white.github.io.git
+   58  mv nwhitehouse.github.io/* kola-white.github.io/
+   59  history
+   60  ls
+   61  cd kola-white.github.io/
+   62  ls
+   63  ls -a
+   64  ./git
+   65  cd .git/
+   66  ls
+   67  ls
+   68  cd ..
+   69  ls
+   70  rm *
+   71  ls
+   72  ls -a
+   73  rm git
+   74  rm .git -f
+   75  rm .git -rf
+   76  ls
+   77  ls
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd nwhitehouse.github.io/
+   82  ls
+   83  cd ..
+   84  ls
+   85  rm -r nwhitehouse.github.io/
+   86  rm -rf nwhitehouse.github.io/
+   87  git clone https://github.com/kola-white/nwhitehouse.github.io.git
+   88  ls
+   89  cd nwhitehouse.github.io/
+   90  ls
+   91  ls -a
+   92  rm -rf .git
+   93  cd ..
+   94  ls
+   95  cd kola-white.github.io/
+   96  ls
+   97  ls -a
+   98  git status
+   99  cd ..
+  100  ls
+  101  rm -r kola-white.github.io/
+  102  git clone https://github.com/kola-white/kola-white.github.io.git
+  103  ls
+  104  mv nwhitehouse.github.io/* kola-white.github.io/
+  105  cd kola-white.github.io/
+  106  git status
+  107  git add .
+  108  git commit -m "my home page"
+  109  git push -u origin master
+  110  ls
+  111  subl index.html
+  112  sublime_text index.html
+  113  cd .
+  114  cd ..
+  115  ls
+  116  cd ..
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd usr/
+  121  ls
+  122  cd
+  123  ls
+  124  env | grep PATH
+  125  cd /
+  126  ls
+  127  ls
+  128  cd mingw64/
+  129  ls
+  130  cd ..
+  131  git push
+  132  git add index.html
+  133  cd 
+  134  ls
+  135  rm -rf nwhitehouse.github.io/
+  136  cd 
+  137  cd kola-white.github.io/
+  138  git add index.html
+  139  git commit -m "changed title"
+  140  git push
+  141  git add index.html
+  142  git commit -m "changed title"
+  143  git push
+  144  git add index.html
+  145  git commit -m "changed title"
+  146  git push
+  147  git add index.html
+  148  git commit -m "changed title"
+  149  git push
+  150  ls
+  151  cd
+  152  ls
+  153  touch history.txt
+  154  ls
+  155  history > history.txt 
+  156  vim history.txt 
+  157  vim history.txt 
+  158  echo "asdf" >> history
+  159  vim history
+  160  echo "asdf" > history
+  161  vim history
+  162  echo "asdf" >> history.txt
+  163  vim history.txt
+  164  ls
+  165  rm history
+  166  cd kola-white.github.io/
+  167  ls
+  168  vim index.html 
+  169  mkdir css
+  170  mv together-1.css css
+  171  git add css
+  172  git commit -m "css added"
+  173  git push
+  174  git add index.html
+  175  git commit -m "html updated"
+  176  git add .
+  177  git commit -m "everything updated"
+  178  git push
+  179  echo $PATH
+  180  ls
+  181  cd
+  182  ls
+  183  cd /
+  184  ls
+  185  cd usr/
+  186  ls
+  187  cd 
+  188  ls
+  189  touch .bashrc
+  190  vim .bashrc
+  191  cd /
+  192  ls
+  193  cd ..
+  194  ls
+  195  ls
+  196  cd mingw64/
+  197  ls
+  198  cd bin
+  199  ls
+  200  echo $PATH
+  201  cd
+  202  touch asdf.html
+  203  Code asdf.html
+  204  echo $PATH
+  205  vim asdf.html 
+  206  ls
+  207  cd kola-white.github.io/
+  208  ls
+  209  mkdir html
+  210  mv *.html html
+  211  mv html/index.html .
+  212  mv *.css css
+  213  cd ..
+  214  ls
+  215  cd kola-white.github.io/
+  216  ls
+  217  git add .
+  218  git commit -m "latest update"
+  219  git push
+  220  history.txt
+  221  vim history.txt
+  222  ls
+  223  cd ..
+  224  ls
+  225  cat history.txt
+  226  history
+  227  history > history.txt
