@@ -1,0 +1,15 @@
+body{
+	display: table;
+
+}
+div{
+	width: 30%
+	background:#00ffff;
+	display: table-cell;
+	/*height: 400px;*/
+	/*display: inline-block;*/
+	/*float:;*/
+	/*overflow: scroll;*/
+}
+
+

@@ -1,0 +1,36 @@
+/*Uncomment each line one by one*/
+
+
+span{
+  display:inline-block;
+}
+
+/*div{
+  display:inline;
+}*/
+
+/*div{
+  float:left;
+}
+
+div{
+  float:right;
+}*/
+
+span{
+	height: 50px;
+	width: 75px;
+	background: #00ff00;
+}
+
+div{
+	height: 100px;
+	width: 75%;
+	background: #00ffff;
+}
+
+p{
+	background: #ff00ff;
+	width: 200px;
+	height: 100px;
+}
