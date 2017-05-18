@@ -12,4 +12,8 @@ div{
 	/*overflow: scroll;*/
 }
 
-
+p {
+	border-width: 0px 3px;
+	border-color: red;
+	border-style: dotted solid;
+}
